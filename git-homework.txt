@@ -1,2 +1,7 @@
 What is the difference between Git and Github?
 Git is the tool on your actual computer, whereas Github is where you store your files online
+
+What's the difference between git add <file>, git add . and git add -A?
+git add<file> only adds specific files 
+git add . adds all the files in the current directory
+git add -A adds all changes in the entire repository
