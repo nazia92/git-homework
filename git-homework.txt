@@ -5,3 +5,6 @@ What's the difference between git add <file>, git add . and git add -A?
 git add<file> only adds specific files 
 git add . adds all the files in the current directory
 git add -A adds all changes in the entire repository
+
+What does git push do? What does git pull do?
+Git push uploads the changes to the cloud. Git pull downloads the changes from the cloud
