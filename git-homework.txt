@@ -1,0 +1,2 @@
+What is the difference between Git and Github?
+Git is the tool on your actual computer, whereas Github is where you store your files online
